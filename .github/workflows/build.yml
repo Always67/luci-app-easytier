@@ -25,6 +25,7 @@ jobs:
       matrix:
         arch:
           - x86_64
+          - mipsel_mips32
         sdk:
           - openwrt-24.10
 
